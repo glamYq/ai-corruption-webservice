@@ -1,1 +1,2 @@
-# ai-corruption-webservice  РА СИ Я 
+# ai-corruption-webservice  
+
